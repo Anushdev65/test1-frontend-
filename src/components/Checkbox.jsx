@@ -1,7 +1,7 @@
-// CheckboxItem.js
 import React from "react";
 import "../style/checkbox.css";
 
+//Checkbox component
 const Checkbox = ({ onChange, label, id, checked }) => {
   return (
     <div className="checkbox-container">
