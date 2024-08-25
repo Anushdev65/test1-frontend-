@@ -1,0 +1,25 @@
+.button {
+  background-color: #ffce22;
+  color: black;
+  padding: 10px 20px 10px 20px;
+  width: 340px;
+  height: 40px;
+  border: none;
+  gap: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Montserrat";
+  margin-top: 5px;
+}
+
+.button:hover {
+  background-color: #ffd84d;
+}
+
+.button-label {
+  width: 39px;
+  height: 18px;
+}
